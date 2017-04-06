@@ -1,2 +1,2 @@
 # counter
-self coded counter react app
+counter react app
